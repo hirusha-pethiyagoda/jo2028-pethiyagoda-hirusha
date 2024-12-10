@@ -97,7 +97,7 @@ INSERT INTO PARTICIPER (id_athlete, id_epreuve, resultat) VALUES
 
 -- Insertion des données dans la table UTILISATEUR
 INSERT INTO UTILISATEUR (id_utilisateur, nom_utilisateur, prenom_utilisateur, login, password) VALUES
-    (1, 'Admin', 'Super', 'admin', '$2y$10$WFxymbZ/gV2XfGy1We2bB.NZ9owdEU5QKUFWAicOY7qayhbe93ACm'),
-    (2, 'User', 'John', 'john_doe', '$2y$10$VSdvPWt4OQnuQdT2vrP1z.5PzBJ5FuJc/bJhIFL8TB2AP99u3h8cO'),
-    (3, 'User', 'Jane', 'jane_doe', '$2y$10$xP/2LE33Hy./Je/CLqLyL.8KJFWgXsHXcaln/usfr8Vv6INtCKIoO');
+    (**, '******', '******', '******', '*********************************************************'),
+    (**, '***********', '******', '**********', '************************************************************'),
+    (**, '********', '********', '**********', '************************************************************');
 
